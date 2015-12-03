@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010204.txt</TPPassage>
+<Stem>4. We can infer that rotational velocity is</Stem>
+<Distractor_list>
+  <Distractor>(A) the same as speed in kph</Distractor>
+  <Distractor>(B) different at different latitudes</Distractor>
+  <Distractor>(C) the same at different latitudes</Distractor>
+  <Distractor>(D) dependent on latitude</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

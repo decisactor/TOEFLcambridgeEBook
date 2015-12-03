@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CS010302.txt</TPPassage>
+  <Paragraph>1</Paragraph>
+  <Stem>2. ln paragraph 1, the author suggests that the Confederates lost the Civil War largely because their</Stem>
+  <Distractor_list>
+    <Distractor>(A) leaders were ineffective</Distractor>
+    <Distractor>(B) industrial capacity was weaker</Distractor>
+    <Distractor>(C) soldiers were unprofessional</Distractor>
+    <Distractor>(D) strategy was poorly planned</Distractor>
+  </Distractor_list>
+
+<Key>2</Key>
+</TestItem>

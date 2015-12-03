@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+
+<TPPassage>CS010105.txt</TPPassage>
+
+<Stem>5. Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>Starvation is reached when the population of cells Is high in relation to the abundance of the food source.</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

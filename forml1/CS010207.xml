@@ -1,0 +1,10 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+
+<TPPassage>CS010207.txt</TPPassage>
+<Stem>7. Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>And conversely, if the object is traveling southward toward the equator, it will be moving more slowly than the surrounding land or water.</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010109.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>9. In paragraph 4, why does the author refer to the fungus-like organism as a fruiting body?</Stem>
+<Distractor_list>
+  <Distractor>(A) Because it has become one entity</Distractor>
+  <Distractor>(B) Because it is 2 millimeters in height</Distractor>
+  <Distractor>(C) Because it now has a stalk and head</Distractor>
+  <Distractor>(D) Because it has reached its reproductive stage</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

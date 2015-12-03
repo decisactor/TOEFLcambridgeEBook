@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010208.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<TPTopScrollLine>41</TPTopScrollLine>
+<Stem>8. According to paragraph 4, where does water move in a direction contrary to surface layers of water?</Stem>
+<Distractor_list>
+  <Distractor>(A) Directly below the surface</Distractor>
+  <Distractor>(B) At 90 degrees to the surface</Distractor>
+  <Distractor>(C) At all depths below the surface</Distractor>
+  <Distractor>(D) At 150 meters below the surface</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

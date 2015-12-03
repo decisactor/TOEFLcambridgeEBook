@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010205.txt</TPPassage>
+<Paragraph>2</Paragraph>
+<Stem>5. In paragraph 2, the author explains the differences in linear speed by</Stem>
+<Distractor_list>
+  <Distractor>(A) arguing that an object moving north moves faster</Distractor>
+  <Distractor>(B) describing the linear velocity of the Earth</Distractor>
+  <Distractor>(C) Identifying the eastward deflection of a current</Distractor>
+  <Distractor>(D) relating speed to the distance of a point from the equator</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

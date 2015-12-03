@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_insertText" METHOD="list">
+
+<TPPassage>CS010310.txt</TPPassage>
+<TPTopScrollLine>42</TPTopScrollLine>
+<Stem>10. Look at the four squares [ |   | ] that indicate where the following sentence can be added to the passage.</Stem>
+<Distractor_list>
+   <Distractor>They were subjected to heavy artillery and rifle fire and sustained a huge number of casualties.</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

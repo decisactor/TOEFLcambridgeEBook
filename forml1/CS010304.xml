@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CS010304.txt</TPPassage>
+  <Paragraph>2</Paragraph>
+  <Stem>4. What can be inferred from paragraph 2 about the North's attitude about the war?</Stem>
+  <Distractor_list>
+    <Distractor>(A) It was angry at the loss of freedoms.</Distractor>
+    <Distractor>(B) It was keen on continuing the war.</Distractor>
+    <Distractor>(C) It was keen on independence.</Distractor>
+    <Distractor>(D) It was tired of waging war.</Distractor>
+  </Distractor_list>
+
+<Key>4</Key>
+</TestItem>

@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010108.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>8. All of the following are mentioned in paragraph 4 as being parts of the multicellular slug EXCEPT</Stem>
+<Distractor_list>
+  <Distractor>(A) the head</Distractor>
+  <Distractor>(B) the stalk</Distractor>
+  <Distractor>(C) legs</Distractor>
+  <Distractor>(D) spores</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

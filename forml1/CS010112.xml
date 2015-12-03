@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010112.txt</TPPassage>
+<Stem>12. According to the passage, the recent DNA studies</Stem>
+<Distractor_list>
+   <Distractor>(A) give similar results to the dye studies</Distractor>
+   <Distractor>(B) contradict the dye studies</Distractor>
+   <Distractor>(C) are less exact than the dye studies</Distractor>
+   <Distractor>(D) have introduced confusion about the dye study results</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

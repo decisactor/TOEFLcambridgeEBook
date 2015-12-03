@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPTopScrollLine>42</TPTopScrollLine>
+<TPPassage>CS010308.txt</TPPassage>
+<Stem>8. The word |devastating| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) important</Distractor>
+  <Distractor>(B) desperate</Distractor>
+  <Distractor>(C) decisive</Distractor>
+  <Distractor>(D) ruinous</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

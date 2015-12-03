@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010206.txt</TPPassage>
+
+<Stem>6. According to the passage, a point near the equator in the Northern Hemisphere travels</Stem>
+<Distractor_list>
+  <Distractor>(A) at the same speed as any other point</Distractor>
+  <Distractor>(B) faster than a point at a higher latitude</Distractor>
+  <Distractor>(C) slower than a point in the Southern Hemisphere</Distractor>
+  <Distractor>(D) at different speeds in different seasons</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

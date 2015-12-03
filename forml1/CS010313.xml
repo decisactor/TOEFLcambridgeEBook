@@ -1,0 +1,37 @@
+<TestItem CLASS="draggy" METHOD="list">
+    <TPviewtext PASSAGE="CS010313.txt"></TPviewtext>
+    <tpFont>Arial,12,0</tpFont>
+    <QuestBmp>CS010313.bmp</QuestBmp>
+    <Comment>Drag your answer choices to the spaces where they belong.</Comment>
+
+    <tpObject_list>
+        <tpObject>43,574,454,0,The Confederate army's strategy was aimed at getting the North to seek a peace deal.</tpObject>
+        <tpObject>534,571,444,0,The fighting was heavy from the beginning, and after two indecisive but bloody days, the main battle lines were drawn with reinforcements coming to both sides.</tpObject>
+        <tpObject>44,649,454,0,The initial fighting was heavy, but at the end of the first two days General Meade's army seemed to be in a superior position.</tpObject>
+        <tpObject>534,650,425,0,The Union army successfully overran most of General Meade's positions on the Confederates' left flank.</tpObject>
+        <tpObject>43,728,466,0,A large-scale and devastating infantry advance by troops of the Confederate army failed to dislodge the Union army from their positions.</tpObject>
+        <tpObject>534,729,434,0,The invading Confederate army retreated, leaving the North in a stronger position militarily and strategically.</tpObject>
+    </tpObject_list>
+    <offset>-115,-72</offset>
+    <bucketSize>692,137</bucketSize>
+    <tpBucket_list>
+        <tpBucket>297,321</tpBucket>
+        <tpBucket>297,407</tpBucket>
+        <tpBucket>297,495</tpBucket>
+        <tpBucket>38,574</tpBucket>
+        <tpBucket>529,571</tpBucket>
+        <tpBucket>39,649</tpBucket>
+        <tpBucket>529,650</tpBucket>
+        <tpBucket>38,728</tpBucket>
+        <tpBucket>529,729</tpBucket>
+    </tpBucket_list>
+   
+    <Key></Key>
+    
+    <specialShowAnswer>2,5,6,1,0,3,4,0,0,</specialShowAnswer>
+    <Key>2;NO_ORDER,1,4,5</Key>
+    <Key>1;NO_ORDER,*,4,5</Key>
+    <Key>1;NO_ORDER,1,*,5</Key>
+    <Key>1;NO_ORDER,1,4,*</Key>
+
+</TestItem>

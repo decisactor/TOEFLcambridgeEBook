@@ -1,0 +1,12 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CS010102.txt</TPPassage>
+  <Stem>2. The word |ingesting| in the passage is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) chewing</Distractor>
+    <Distractor>(B) catching</Distractor>
+    <Distractor>(C) absorbing</Distractor>
+    <Distractor>(D) consuming</Distractor>
+  </Distractor_list>
+
+<Key>4</Key>
+</TestItem>

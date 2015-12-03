@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010311.txt</TPPassage>
+
+<Stem>11. According to the passage, the battle of Gettysburg ended with</Stem>
+<Distractor_list>
+  <Distractor>(A) lee signing a document of surrender</Distractor>
+  <Distractor>(B) the Southern territories becoming much safer</Distractor>
+  <Distractor>(C) Lee's army devastating the countryside in their retreat</Distractor>
+  <Distractor>(D) a high death toll for both the Union and the Confederates</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

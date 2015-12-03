@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CS010201.txt</TPPassage>
+  <Stem>1. The phrase "|path of the wind|" in the passage is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) wind strength</Distractor>
+    <Distractor>(B) wind variation</Distractor>
+    <Distractor>(C) wind direction</Distractor>
+    <Distractor>(D) wind phenomenon</Distractor>
+  </Distractor_list>
+
+<Key>3</Key>
+</TestItem>

@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010305.txt</TPPassage>
+<Stem>5. We can infer from the passage that, at Gettysburg, the Union army largely played which kind of strategy? </Stem>
+<Distractor_list>
+  <Distractor>(A) An offensive strategy</Distractor>
+  <Distractor>(B) A strategy of hit and run</Distractor>
+  <Distractor>(C) A defensive strategy</Distractor>
+  <Distractor>(D) A strategy of wait and see</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

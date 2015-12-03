@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  
+  <TPPassage>CS010103.txt</TPPassage>
+  <Stem>3. According to the passage, what is unusual about the slime molds' life cycle?</Stem>
+  <Distractor_list>
+    <Distractor>(A) They inhabit their own kingdom.</Distractor>
+    <Distractor>(B) They are organisms whose classification is ambiguous.</Distractor>
+    <Distractor>(C) They alternate between unicellular and multicellular structures.</Distractor>
+    <Distractor>(D) They are free-living organisms.</Distractor>
+  </Distractor_list>
+  
+  <Key>3</Key>
+</TestItem>

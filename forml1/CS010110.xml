@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010110.txt</TPPassage>
+
+<TPTopScrollLine>39</TPTopScrollLine>
+<Stem>10. Which of the sentences below best expresses the essential information in the highlighted sentence? Incorrect choices change the meaning in important ways or leave out essential information.</Stem>
+<Distractor_list>
+  <Distractor>(A) The next generation of amoebae cells disperses into the environment by attaching themselves to spores on the head.</Distractor>
+  <Distractor>(B) After the spores that form the head are scattered around the area, they develop into a new generation of amoebae cells.</Distractor>
+  <Distractor>(C) The spores develop into amoebae cells and then become spread around the head of the slug.</Distractor>
+  <Distractor>(D) The spores spread throughout an area and develop into a new generation of amoebae cells.</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

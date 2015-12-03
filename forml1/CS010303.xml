@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CS010303.txt</TPPassage>
+
+  <Stem>3. Which of the sentences below best expresses the essential Information in the highlighted sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.</Stem>
+  <Distractor_list>
+    <Distractor>(A) General Lee tried to lure his soldiers into invading the North in order to defeat the Union army.</Distractor>
+    <Distractor>(B) The Union army was in danger of an invasion by General Lee's army due to Its location in Pennsylvania.</Distractor>
+    <Distractor>(C) In the hope of luring the Union army into an exposed situation, General Lee's forces marched Into Pennsylvania.</Distractor>
+    <Distractor>(D) The state of Pennsylvania was a suitable location for drawing out the Union army into a dangerous situation.</Distractor>
+  </Distractor_list>
+
+<Key>3</Key>
+</TestItem>

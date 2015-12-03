@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CS010107.txt</TPPassage>
+  <TPTopScrollLine>32</TPTopScrollLine>
+  <Stem>7. The word |others| in the passage refers to</Stem>
+  <Distractor_list>
+    <Distractor>(A) cells</Distractor>
+    <Distractor>(B) stalks</Distractor>
+    <Distractor>(C) spores</Distractor>
+    <Distractor>(D) kinds</Distractor>
+  </Distractor_list>
+  
+  <Key>1</Key>
+</TestItem>

@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010111.txt</TPPassage>
+
+<Stem>11. It can be inferred that developmental biologists are especially interested in the slime mold because</Stem>
+<Distractor_list>
+  <Distractor>(A) the change in degree of specialization in its cells helps them to understand cell development in more complex organisms</Distractor>
+  <Distractor>(B) it is convenient to perform experiments on a creature that is composed of two different cell types</Distractor>
+  <Distractor>(C) scientists could form hybrid organisms in their experiments using the same process that slime mold uses to transform itself</Distractor>
+  <Distractor>(D) it is easy to find specimens on which to perform experiments</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

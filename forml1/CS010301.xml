@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+  <TPPassage>CS010301.txt</TPPassage>
+  <Stem>1. The word |engagement| in the passage is closest in meaning to</Stem>
+  <Distractor_list>
+    <Distractor>(A) agreement</Distractor>
+    <Distractor>(B) meeting</Distractor>
+    <Distractor>(C) battle</Distractor>
+    <Distractor>(D) defeat</Distractor>
+  </Distractor_list>
+
+<Key>3</Key>
+</TestItem>

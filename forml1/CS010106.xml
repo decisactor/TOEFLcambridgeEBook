@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010106.txt</TPPassage>
+
+<Stem>6. The word |entity| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) division</Distractor>
+  <Distractor>(B) species</Distractor>
+  <Distractor>(C) piece</Distractor>
+  <Distractor>(D) unit</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

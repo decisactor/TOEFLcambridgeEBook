@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010211.txt</TPPassage>
+
+<Stem>11. Based on the information in paragraphs 1 and 4, which of the following best explains the term coriolis force?</Stem>
+<Distractor_list>
+  <Distractor>(A) The force that creates currents</Distractor>
+  <Distractor>(B) The force that moves icebergs</Distractor>
+  <Distractor>(C) The force that opposes wind movement</Distractor>
+  <Distractor>(D) The force that deflects ocean water</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

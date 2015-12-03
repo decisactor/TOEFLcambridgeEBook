@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010209.txt</TPPassage>
+<Paragraph>4</Paragraph>
+<TPTopScrollLine>41</TPTopScrollLine>
+<Stem>9. In paragraph 4, why does the author explain that the wind tends to deflect the water to the right or left?</Stem>
+<Distractor_list>
+  <Distractor>(A) To explain the concept of upwelling</Distractor>
+  <Distractor>(B) To demonstrate the effect of the Coriolis force</Distractor>
+  <Distractor>(C) To point out causes of rotational velocity</Distractor>
+  <Distractor>(D) To introduce the movement of ocean currents</Distractor>
+</Distractor_list>
+
+<Key>2</Key>
+</TestItem>

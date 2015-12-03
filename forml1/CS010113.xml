@@ -1,0 +1,107 @@
+<TestItem CLASS="draggy_table" METHOD="list">
+<TPviewtext PASSAGE="CS010113.txt">
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<QuestBmp>CS010113.bmp</QuestBmp>
+<Comment>Drag your answer choices to the spaces where they belong.</Comment>
+
+<tpObject_list>
+     <tpObject>43,574,454,0,Alteration between feeding and reproduction</tpObject>
+     <tpObject>534,571,444,0,Bacteria-consuming amoebae inhabiting the forest floor</tpObject>
+     <tpObject>44,624,454,0,Culmination of dyed cells in stalk and head</tpObject>
+     <tpObject>534,623,425,0,Development of sorocarp</tpObject>
+     <tpObject>43,669,466,0,Dispersal of spores</tpObject>
+     <tpObject>534,675,434,0,Mass formed through the secretion of adhesion molecules</tpObject>
+     <tpObject>43,709,466,0,Migration oriented to fresh source of food</tpObject>
+     <tpObject>534,733,434,0,Production of chemical pulses causing members to merge</tpObject>
+     <tpObject>43,748,466,0,Transformation of cells into stalk and head</tpObject>
+</tpObject_list>
+<offset>-115,-72</offset>
+<bucketSize>692,107</bucketSize>
+<tpBucket_list>
+     <tpBucket>367,208</tpBucket>
+     <tpBucket>367,261</tpBucket>
+     <tpBucket>367,312</tpBucket>
+     <tpBucket>367,363</tpBucket>
+     <tpBucket>367,421</tpBucket>
+     <tpBucket>367,475</tpBucket>
+     <tpBucket>367,525</tpBucket>
+     <tpBucket>38,574</tpBucket>
+     <tpBucket>529,571</tpBucket>
+     <tpBucket>39,624</tpBucket>
+     <tpBucket>529,623</tpBucket>
+     <tpBucket>38,669</tpBucket>
+     <tpBucket>529,675</tpBucket>
+     <tpBucket>38,709</tpBucket>
+     <tpBucket>529,733</tpBucket>
+     <tpBucket>38,748</tpBucket>
+</tpBucket_list>
+<Key></Key>
+
+<specialShowAnswer>2,6,7,8,4,5,9,1,0,3,0,0,0,0,0,0</specialShowAnswer>
+<Key>4;NO_ORDER_SPLIT_4:3,4,6,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,9,*,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,9,2,*,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,9,2,5,*</Key>
+<Key>3;NO_ORDER_SPLIT_4:*,4,6,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,*,6,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,*,9,2,5,8</Key>
+<Key>3;NO_ORDER_SPLIT_4:3,4,6,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,*,6,9,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,*,9,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,9,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,9,2,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:*,4,6,9,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,*,9,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,9,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,9,2,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,*,6,9,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,*,2,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,9,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,9,2,8,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,*,9,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,*,*,5,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,*,2,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,*,2,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,9,*,*,8</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,9,*,5,*</Key>
+<Key>2;NO_ORDER_SPLIT_4:3,4,6,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,*,9,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,*,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,9,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,9,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,*,6,9,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,*,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,9,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,9,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,*,9,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,*,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,*,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,*,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,9,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,9,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:*,4,6,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,*,2,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,9,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,9,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,*,9,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,*,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,*,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,*,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,9,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,9,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,*,6,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,*,*,5,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,*,2,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,*,2,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,9,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,9,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,*,9,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,*,*,*,8</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,*,*,5,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,*,2,*,*</Key>
+<Key>1;NO_ORDER_SPLIT_4:3,4,6,9,*,*,*</Key>
+
+</TestItem>

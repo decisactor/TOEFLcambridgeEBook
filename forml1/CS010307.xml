@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010307.txt</TPPassage>
+
+<Stem>7. Why does the author say the positions of the Union army resembled a fishhook?</Stem>
+<Distractor_list>
+  <Distractor>(A) To give the reader a mental picture of the troops' positions</Distractor>
+  <Distractor>(B) To explain the appearance of the sharp pointed hooks used as weapons</Distractor>
+  <Distractor>(C) To suggest that taking a fishhook formation is a good tactic in war</Distractor>
+  <Distractor>(D) To imply that the ridge had a curved shape like that of a fishhook</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

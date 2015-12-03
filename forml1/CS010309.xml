@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010309.txt</TPPassage>
+<TPTopScrollLine>42</TPTopScrollLine>
+<Paragraph>5</Paragraph>
+<Stem>9. All of the following are implied in paragraph 5 as contributing to the failure of Pickett's Charge EXCEPT</Stem>
+<Distractor_list>
+  <Distractor>(A) General Lee's refusal to listen to his generals' opinion</Distractor>
+  <Distractor>(B) the Confederate artillery's failure to cause much damage</Distractor>
+  <Distractor>(C) the Union's center being stronger than anticipateds</Distractor>
+  <Distractor>(D) the Confederate infantry not performing at full strength</Distractor>
+</Distractor_list>
+
+<Key>4</Key>
+</TestItem>

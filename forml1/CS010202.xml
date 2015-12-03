@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010202.txt</TPPassage>
+<Stem>2. The phrase "|this phenomenon|" in the passage refers to</Stem>
+<Distractor_list>
+  <Distractor>(A) the movement of icebergs</Distractor>
+  <Distractor>(B) the rotation of the Earth</Distractor>
+  <Distractor>(C) the direction of the wind</Distractor>
+  <Distractor>(D) the inertial Coriolis force</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

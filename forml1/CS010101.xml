@@ -1,0 +1,13 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CS010101.txt</TPPassage>
+  <Paragraph>1</Paragraph>
+  <Stem>1. According to paragraph 1, how the slime mold should be classified used to be</Stem>
+  <Distractor_list>
+    <Distractor>(A) unknown</Distractor>
+    <Distractor>(B) uncertain</Distractor>
+    <Distractor>(C) controversial</Distractor>
+    <Distractor>(D) unfamiliar</Distractor>
+  </Distractor_list>
+  
+  <Key>2</Key>
+</TestItem>

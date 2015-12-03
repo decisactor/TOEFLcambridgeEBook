@@ -1,0 +1,15 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010210.txt</TPPassage>
+<TPTopScrollLine>46</TPTopScrollLine>
+
+<Stem>10. The word |deflected| in the passage is closest in meaning to</Stem>
+<Distractor_list>
+  <Distractor>(A) turned</Distractor>
+  <Distractor>(B) pushed</Distractor>
+  <Distractor>(C) shoved</Distractor>
+  <Distractor>(D) urged</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

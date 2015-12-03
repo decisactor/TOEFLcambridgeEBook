@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010212.txt</TPPassage>
+
+<Stem>12. According to the passage, the Ekman spiral may affect</Stem>
+<Distractor_list>
+  <Distractor>(A) the distribution of ocean life forms</Distractor>
+  <Distractor>(B) the direction of the wind</Distractor>
+  <Distractor>(C) the speed of ocean currents</Distractor>
+  <Distractor>(D) the frictional forces of water layers</Distractor>
+</Distractor_list>
+
+<Key>1</Key>
+</TestItem>

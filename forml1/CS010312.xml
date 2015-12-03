@@ -1,0 +1,14 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+
+<TPPassage>CS010312.txt</TPPassage>
+
+<Stem>12. According to the passage, why was the battle of Gettysburg so decisive?</Stem>
+<Distractor_list>
+  <Distractor>(A) The Confederates lost so many troops.</Distractor>
+  <Distractor>(B) It created war weariness on both sides.</Distractor>
+  <Distractor>(C) The Confederates failed to capture Northern territory.</Distractor>
+  <Distractor>(D) The Union troops gained confidence.</Distractor>
+</Distractor_list>
+
+<Key>3</Key>
+</TestItem>

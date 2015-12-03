@@ -1,0 +1,39 @@
+<TestItem CLASS="draggy" METHOD="list">
+<TPviewtext PASSAGE="CS010213.txt">
+</TPviewtext>
+<tpFont>Arial,12,0</tpFont>
+<QuestBmp>CS010213.bmp</QuestBmp>
+<Comment>Drag your answer choices to the spaces where they belong.</Comment>
+
+<tpObject_list>
+     <tpObject>43,574,454,0,Due to the Coriolis force, icebergs move at a right angle to the prevailing wind.</tpObject>
+     <tpObject>534,571,444,0,Because of the Earth's rotation, objects moving away from or toward the equator travel at different speeds in relation to fixed points at different latitudes.</tpObject>
+     <tpObject>44,649,454,0,In order to reach the correct destination, an airplane pilot must adjust direction to compensate for the Coriolis force.</tpObject>
+     <tpObject>534,650,425,0,Because of deflection and differences in linear speed, ocean currents move at an angle to the wind.</tpObject>
+     <tpObject>43,728,466,0,Water at successively lower levels is deflected at an angle to the layer immediately above it, and this creates a spiral.</tpObject>
+     <tpObject>534,729,434,0,Due to upwelling of water, marine life is rich in areas where Ekman spirals operate.</tpObject>
+</tpObject_list>
+<offset>-115,-72</offset>
+<bucketSize>692,137</bucketSize>
+<tpBucket_list>
+     <tpBucket>297,321</tpBucket>
+     <tpBucket>297,407</tpBucket>
+     <tpBucket>297,495</tpBucket>
+     <tpBucket>38,574</tpBucket>
+     <tpBucket>529,571</tpBucket>
+     <tpBucket>39,649</tpBucket>
+     <tpBucket>529,650</tpBucket>
+     <tpBucket>38,728</tpBucket>
+     <tpBucket>529,729</tpBucket>
+</tpBucket_list>
+<Key></Key>
+
+<specialShowAnswer>2,4,5,1,0,3,0,0,6,</specialShowAnswer>
+<Key>2;NO_ORDER,2,3,6</Key>
+<Key>1;NO_ORDER,*,3,6</Key>
+<Key>1;NO_ORDER,2,*,6</Key>
+<Key>1;NO_ORDER,2,3,*</Key>
+
+
+
+</TestItem>

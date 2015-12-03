@@ -1,0 +1,11 @@
+<TestItem CLASS="passage_ssmc" METHOD="list">
+  <TPPassage>CS010104.txt</TPPassage>
+  <Stem>4. According to the passage, what is the primary reason the cells need to combine into a single larger creature?</Stem>
+  <Distractor_list>
+    <Distractor>(A) To move to find a new food source</Distractor>
+    <Distractor>(B) To slow the rate of ingesting food</Distractor>
+    <Distractor>(C) To become separate creatures</Distractor>
+    <Distractor>(D) To create their own kingdom</Distractor>
+  </Distractor_list>
+  <Key>1</Key>
+</TestItem>
